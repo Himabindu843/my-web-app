@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(135deg, #e0f7fa, #fce4ec);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.App {
+  text-align: center;
+  background: white;
+  padding: 2.5rem 3rem;
+  border-radius: 20px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  width: 400px;
+}
+
+h1 {
+  margin-bottom: 0.5rem;
+}
+
+.subtext {
+  color: #777;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+}
+
+.message-box {
+  background-color: #f1f8ff;
+  padding: 1rem;
+  border-radius: 12px;
+  border: 1px solid #cce7ff;
+  color: #333;
+  font-weight: bold;
+}
