@@ -55,3 +55,6 @@ Add user authentication and chat history.
 Use WebSocket for real-time two-way communication.
 Add voice input and response using Web Speech API.
 This project demonstrates the practical implementation of a React + Node.js full stack application, simulating AI interaction and showing the power of modern web development tools.
+
+## OUTPUT:
+![Image](https://github.com/user-attachments/assets/dab35789-c93e-4ca1-a366-db2f5f88a94c)
