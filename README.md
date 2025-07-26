@@ -54,11 +54,11 @@ Extensible design for adding more Q&A or integrating with external APIs.
 - AI Integrations: Easily extensible to plug in with GPT APIs or ML models for smarter conversational logic.
 
 ## Future Improvements
-Integrate OpenAI or Dialogflow for dynamic NLP-based responses.
-Add user authentication and chat history.
-Use WebSocket for real-time two-way communication.
-Add voice input and response using Web Speech API.
-This project demonstrates the practical implementation of a React + Node.js full stack application, simulating AI interaction and showing the power of modern web development tools.
+- Integrate OpenAI or Dialogflow for dynamic NLP-based responses.
+- Add user authentication and chat history.
+- Use WebSocket for real-time two-way communication.
+- Add voice input and response using Web Speech API.
+- This project demonstrates the practical implementation of a React + Node.js full stack application, simulating AI interaction and showing the power of modern web development tools.
 
 ## OUTPUT:
 ![Image](https://github.com/user-attachments/assets/dab35789-c93e-4ca1-a366-db2f5f88a94c)
