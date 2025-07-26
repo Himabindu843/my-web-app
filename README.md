@@ -12,7 +12,8 @@
 ## DESCRIPTION:
 ## AI Chat Assistant – Full Stack Web App
 This project is a Full Stack AI Chat Assistant Web Application developed using React.js (Frontend) and Node.js with Express (Backend).
-It simulates a basic real-time chat interface where users can interact with an AI-like assistant, asking general questions and receiving intelligent, hardcoded responses. It serves as a foundational chatbot framework and can be easily extended to support real NLP-based backends using tools like OpenAI or Dialogflow.
+It simulates a basic real-time chat interface where users can interact with an AI-like assistant, asking general questions and receiving intelligent, hardcoded responses. 
+It serves as a foundational chatbot framework and can be easily extended to support real NLP-based backends using tools like OpenAI or Dialogflow.
 
 ## Tools & Technologies Used
 ## Frontend:
@@ -21,21 +22,21 @@ It simulates a basic real-time chat interface where users can interact with an A
 -**Fetch API**: Used for sending messages to the backend and receiving responses asynchronously using HTTP requests.
 
 ## Backend:
-Node.js: A JavaScript runtime environment used to create the server-side logic and handle incoming client requests.
-Express.js: A fast, minimalist framework for Node.js, used to create a RESTful API endpoint (/api/message) that processes user input and returns predefined responses based on simple condition checks.
-CORS Middleware: Enabled cross-origin requests from the React frontend to the backend running on a different port.
-Body-parser or Express JSON Parser: Used to parse incoming JSON data from client requests.
+**Node.js**: A JavaScript runtime environment used to create the server-side logic and handle incoming client requests.
+**Express.js**: A fast, minimalist framework for Node.js, used to create a RESTful API endpoint (/api/message) that processes user input and returns predefined responses based on simple condition checks.
+**CORS Middleware**: Enabled cross-origin requests from the React frontend to the backend running on a different port.
+**Body-parser or Express JSON Parser**: Used to parse incoming JSON data from client requests.
 
 ## Development Tools:
-Visual Studio Code: Primary code editor used to write and manage all frontend and backend code.
-Git & GitHub: Version control using Git and remote repository hosting on GitHub. The entire project codebase is pushed to a GitHub repository to showcase as a portfolio project.
-npm (Node Package Manager): Used to install and manage packages like express, cors, and other dependencies.
+**Visual Studio Code**: Primary code editor used to write and manage all frontend and backend code.
+**Git & GitHub**: Version control using Git and remote repository hosting on GitHub. The entire project codebase is pushed to a GitHub repository to showcase as a portfolio project.
+**npm (Node Package Manager)**: Used to install and manage packages like express, cors, and other dependencies.
 
 ## Features
-Simulates a conversational AI assistant.
-Real-time UI response to user input.
-Bot gives predefined, meaningful responses to questions like:
-"What is Java?" → Java is a popular, object-oriented programming language used for web, mobile, and desktop applications.
+- Simulates a conversational AI assistant.
+- Real-time UI response to user input.
+- Bot gives predefined, meaningful responses to questions like:
+- "What is Java?" → Java is a popular, object-oriented programming language used for web, mobile, and desktop applications.
 "What is current trend?" → Current tech trends include AI, Web3, cloud computing, and edge computing!"
 Clean and responsive chat interface.
 Extensible design for adding more Q&A or integrating with external APIs.
